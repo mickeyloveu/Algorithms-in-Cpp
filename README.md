@@ -1,2 +1,3 @@
-# Algorithms-in-Cpp
-Algorithms &amp; Data Structures in C++
+# Algorithms &amp; Data Structures in C++
+
+This repository contains classical algorithms implementations in C++.
